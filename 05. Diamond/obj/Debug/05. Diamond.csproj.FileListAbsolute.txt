@@ -1,0 +1,6 @@
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\05. Diamond\bin\Debug\_05.Diamond.exe.config
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\05. Diamond\bin\Debug\_05.Diamond.exe
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\05. Diamond\bin\Debug\_05.Diamond.pdb
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\05. Diamond\obj\Debug\05. Diamond.csprojResolveAssemblyReference.cache
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\05. Diamond\obj\Debug\_05.Diamond.exe
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\05. Diamond\obj\Debug\_05.Diamond.pdb

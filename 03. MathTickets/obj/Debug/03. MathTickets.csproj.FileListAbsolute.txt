@@ -1,0 +1,6 @@
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\03. MathTickets\bin\Debug\_03.MathTickets.exe.config
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\03. MathTickets\bin\Debug\_03.MathTickets.exe
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\03. MathTickets\bin\Debug\_03.MathTickets.pdb
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\03. MathTickets\obj\Debug\03. MathTickets.csprojResolveAssemblyReference.cache
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\03. MathTickets\obj\Debug\_03.MathTickets.exe
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\03. MathTickets\obj\Debug\_03.MathTickets.pdb

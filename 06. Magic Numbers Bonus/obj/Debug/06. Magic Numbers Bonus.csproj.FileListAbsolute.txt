@@ -1,0 +1,5 @@
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\06. Magic Numbers Bonus\bin\Debug\_06.Magic_Numbers_Bonus.exe.config
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\06. Magic Numbers Bonus\bin\Debug\_06.Magic_Numbers_Bonus.exe
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\06. Magic Numbers Bonus\bin\Debug\_06.Magic_Numbers_Bonus.pdb
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\06. Magic Numbers Bonus\obj\Debug\_06.Magic_Numbers_Bonus.exe
+H:\Programming\Software University\Mentoring\Programming Basics Exam - 17 July 2016\06. Magic Numbers Bonus\obj\Debug\_06.Magic_Numbers_Bonus.pdb
